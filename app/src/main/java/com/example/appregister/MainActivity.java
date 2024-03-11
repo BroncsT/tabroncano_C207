@@ -1,4 +1,4 @@
-package com.example.appintro;
+package com.example.appregister;
 
 import androidx.appcompat.app.AppCompatActivity;
 

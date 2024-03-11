@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.appintro"
+    namespace = "com.example.appregister"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.appintro"
+        applicationId = "com.example.appregister"
         minSdk = 33
         targetSdk = 33
         versionCode = 1

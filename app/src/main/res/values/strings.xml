@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Three Studio</string>
+    <string name="app_name">AppRegister</string>
+    <string name="query">Sign up</string>
+    <string name="fname">full name</string>
+    <string name="uname">username</string>
+    <string name="email">email</string>
+    <string name="enter_password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="signup_btn">Sign up</string>
+    <string name="or_signup">or sign up with</string>
+    <string name="already_member">Already a member? Sign in.</string>
+
+
+
 </resources>
