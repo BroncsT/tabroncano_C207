@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Three Studio</string>
+    <string name="query">Sign In</string>
+    <string name="uname_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="forgot_pass">Forgot password?</string>
+    <string name="login_btn">Sign in</string>
+    <string name="or_login">or Sign with</string>
+    <string name="go_to_register">Not a member yet? Register.</string>
 </resources>
